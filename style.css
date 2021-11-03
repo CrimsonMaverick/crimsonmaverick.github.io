@@ -1,0 +1,40 @@
+p {
+  color: red;
+  font-size: 18px;
+  letter-spacing: 3px;
+}
+
+html {
+  /* background-color: #0000ff; */
+  font-size: 15px;
+  font-family: "ubuntu", sans-serif;
+}
+
+/* .nb {
+  color: pink;
+} */
+
+h3 {
+  text-align: center;
+  font-size: 80px;
+  margin: 0;
+  padding: 0px 20px;
+  color: #0000aa;
+  text-shadow: 5px 8px 3px black;
+}
+img {
+  display: block;
+  margin: auto;
+}
+
+html {
+  background-color: #be868b;
+}
+
+body {
+  width: 600px;
+  margin: 20px auto;
+  background-color: #ffffaa;
+  padding: 0px 20px 20px 20px;
+  border: 5px solid black;
+}
